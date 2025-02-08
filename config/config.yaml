@@ -7,6 +7,13 @@ data_ingestion:
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
 
+feature_engineering:
+  root_dir: artifacts/feature_engineering
+  training_data_path: artifacts/feature_engineering
+  training_data_file: artifacts/feature_engineering/tweets.csv
+  training_cleansed_data: artifacts/feature_engineering
+
+
 
 prepare_base_model:
   root_dir: artifacts/prepare_base_model
