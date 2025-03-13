@@ -15,5 +15,6 @@ class DataIngestionConfig:
 class DataPreprocessingConfig:
     root_dir: Path
     training_data_path: Path
-    training_data_file: str
-    training_cleansed_data: str
+    training_data_file: Path
+    training_cleansed_data: Path
+    datasets_dir: Path

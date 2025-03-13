@@ -39,7 +39,8 @@ class ConfigurationManager:
             root_dir=config.root_dir,
             training_data_path=config.training_data_path,
             training_data_file=config.training_data_file,
-            training_cleansed_data=config.training_cleansed_data
+            training_cleansed_data=config.training_cleansed_data,
+            datasets_dir=config.datasets_dir
         )
 
         return data_preprocessing_config
