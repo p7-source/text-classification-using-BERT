@@ -17,7 +17,7 @@ feature_engineering:
 
 prepare_model:
   root_dir: artifacts/prepare_model
-  base_model_path: artifacts/prepare_model/model.pt
+  base_model_path: artifacts/prepare_model/
 
 data:
   datasets_dir: artifacts/feature_engineering
