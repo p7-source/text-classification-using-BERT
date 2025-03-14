@@ -12,15 +12,15 @@ feature_engineering:
   training_data_path: artifacts/feature_engineering
   training_data_file: artifacts/feature_engineering/Tweets.csv
   training_cleansed_data: artifacts/feature_engineering
-  datasets_dir: artifacts/feature_engineering/datasets/
+  datasets_dir: artifacts/feature_engineering/datasets
 
 
 prepare_model:
   root_dir: artifacts/prepare_model
   base_model_path: artifacts/prepare_model/
 
-data:
-  datasets_dir: artifacts/feature_engineering
+# data:
+#   datasets_dir: artifacts/feature_engineering
 
 training:
   root_dir: artifacts/training

@@ -32,3 +32,20 @@ class PrepareBaseModelConfig:
     params_max_steps: int
     params_save_steps: int
     params_logging_steps: int
+
+
+
+@dataclass(frozen=True)
+class TrainingConfig:
+    datasets_dir: Path  # Directory where datasets are saved
+    output_dir: Path  # Directory to save training outputs
+    base_model_path: Path
+    model_save_path: Path  # Directory to save the trained model
+    num_train_epochs: int  # Number of training epochs
+    per_device_train_batch_size: int  # Training batch size per device
+    per_device_eval_batch_size: int  # Evaluation batch size per device
+    warmup_steps: int  # Number of warmup steps
+    weight_decay: float  # Weight decay rate
+    max_steps: int  # Maximum number of training steps
+    save_steps: int  # Save model every `save_steps` steps
+    logging_steps: int  # Log metrics every `logging_steps` steps
