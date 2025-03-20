@@ -24,3 +24,9 @@ This is a **cool project** that does amazing things. It uses Python and Markdown
 ## Installation
 ```bash
 pip install myproject
+
+
+from myproject import MyClass
+
+obj = MyClass()
+obj.do_something()
