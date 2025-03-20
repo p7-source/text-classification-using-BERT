@@ -1,4 +1,6 @@
 # text-classification-using-BERT :rocket: 
+
+![Alt text]([URL_or_path_to_image](https://mlarchive.com/natural-language-processing/text-classification-sentiment-analysis/))
 Welcome, every one!
 I just build an end to end text classification project using BERT to classify cutomers' sentiments.
 ## Happy Coding all :smile:
