@@ -1,6 +1,6 @@
 # text-classification-using-BERT :rocket: 
-![Text Classification](.[/image.webp](https://github.com/p7-source/text-classification-using-BERT/blob/main/New-Project-3-1-1024x607-1024x585-1-2-1024x585.webp))
-
+![Project Logo]([./images/logo.png](https://github.com/p7-source/text-classification-using-BERT/blob/main/ClassificationImg.png))
+https://github.com/p7-source/text-classification-using-BERT/blob/main/ClassificationImg.png
 Welcome, every one!
 I just build an end to end text classification project using BERT to classify cutomers' sentiments.
 ## Happy Coding all :smile:
