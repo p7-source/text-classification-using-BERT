@@ -35,4 +35,48 @@ conda activate tcenv
 conda install python=3.9
 pip install -r .\requirements.txt
 
+## 🏗️ Project Structure
+```plaintext
+text-classification-using-BERT/
+├───.github
+│   └───workflows
+├───artifacts
+│   ├───data_ingestion
+│   ├───feature_engineering
+│   │   └───datasets
+│   ├───prepare_model
+│   └───training
+│       ├───checkpoint-10
+│       ├───checkpoint-2
+│       ├───checkpoint-4
+│       ├───checkpoint-6
+│       ├───checkpoint-8
+│       ├───testing_dir
+│       └───trained_model
+├───config
+├───logs
+├───model
+├───research
+│   └───logs
+├───src
+│   ├───textClassifier
+│   │   ├───components
+│   │   │   └───__pycache__
+│   │   ├───config
+│   │   │   └───__pycache__
+│   │   ├───constants
+│   │   │   └───__pycache__
+│   │   ├───entity
+│   │   │   └───__pycache__
+│   │   ├───logs
+│   │   ├───pipeline
+│   │   │   └───__pycache__
+│   │   ├───utils
+│   │   │   └───__pycache__
+│   │   └───__pycache__
+│   └───textClassifier.egg-info
+├───templates
+│   └───logs
+└───wandb
+
 
