@@ -28,13 +28,7 @@ This project demonstrates **Text Classification using BERT**, a state-of-the-art
 - **Unique Pipeline Design**: Three pipelines for feature engineering, model training, and inference.
 
 ---
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Installation
+## Packages'installation and Project setup
 ```bash
-pip install myproject
+
 
