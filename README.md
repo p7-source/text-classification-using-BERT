@@ -30,5 +30,9 @@ This project demonstrates **Text Classification using BERT**, a state-of-the-art
 ---
 ## Packages'installation and Project setup
 ```bash
+conda create -n tcenv
+conda activate tcenv
+conda install python=3.9
+pip install -r .\requirements.txt
 
 
