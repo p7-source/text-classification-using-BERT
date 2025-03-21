@@ -45,6 +45,7 @@ cd text-classification-using-BERT
 ```bash
 git clone https://github.com/p7-source/text-classification-using-BERT.git
 cd text-classification-using-BERT
+python app.py
 ```
 ## 🏗️ Project Structure
 
