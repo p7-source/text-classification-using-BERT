@@ -4,16 +4,11 @@
 Welcome, every one!
 I just build an end to end text classification project using BERT to classify cutomers' sentiments.
 ## Happy Coding all :smile:
-<details>
-  <summary>Click to expand</summary>
-  This content is hidden until you click the summary.
-</details>
+
 
 
 
 # My Project
-
-![Project Logo](https://example.com/logo.png)
 
 ## Description
 This is a **cool project** that does amazing things. It uses Python and Markdown.
