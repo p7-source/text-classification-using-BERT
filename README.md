@@ -8,7 +8,9 @@ I just build an end to end text classification project using BERT to classify cu
 
 
 
-# My Project
+# Problem Statement
+The goal of the project is to analyze the the customer feedback from social media surveys, support tickets, or customer executive chats to determine the overall sentiment towards a company's products and services. The sentiment will classify into three catagories.
+
 
 ## Description
 This is a **cool project** that does amazing things. It uses Python and Markdown.
