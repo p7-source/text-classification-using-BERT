@@ -35,6 +35,17 @@ conda activate tcenv
 conda install python=3.9
 pip install -r .\requirements.txt
 ```
+---
+## Project setup 
+```bash
+git clone https://github.com/p7-source/text-classification-using-BERT.git
+cd text-classification-using-BERT
+```
+## Project setup 
+```bash
+git clone https://github.com/p7-source/text-classification-using-BERT.git
+cd text-classification-using-BERT
+```
 ## 🏗️ Project Structure
 
 ```plaintext
@@ -53,26 +64,16 @@ text-classification-using-BERT/
 ├───logs
 ├───model
 ├───research
-│   └───logs
 ├───src
 │   ├───textClassifier
 │   │   ├───components
-│   │   │   └───__pycache__
 │   │   ├───config
-│   │   │   └───__pycache__
 │   │   ├───constants
-│   │   │   └───__pycache__
 │   │   ├───entity
-│   │   │   └───__pycache__
 │   │   ├───logs
 │   │   ├───pipeline
-│   │   │   └───__pycache__
 │   │   ├───utils
-│   │   │   └───__pycache__
-│   │   └───__pycache__
-│   └───textClassifier.egg-info
 ├───templates
-│   └───logs
 └───wandb
 
 
