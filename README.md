@@ -47,11 +47,6 @@ text-classification-using-BERT/
 │   │   └───datasets
 │   ├───prepare_model
 │   └───training
-│       ├───checkpoint-10
-│       ├───checkpoint-2
-│       ├───checkpoint-4
-│       ├───checkpoint-6
-│       ├───checkpoint-8
 │       ├───testing_dir
 │       └───trained_model
 ├───config
