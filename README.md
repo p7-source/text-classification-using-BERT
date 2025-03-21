@@ -34,8 +34,9 @@ conda create -n tcenv
 conda activate tcenv
 conda install python=3.9
 pip install -r .\requirements.txt
-
+```
 ## 🏗️ Project Structure
+
 ```plaintext
 text-classification-using-BERT/
 ├───.github
