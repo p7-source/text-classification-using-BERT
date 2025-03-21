@@ -19,6 +19,15 @@ This project demonstrates **Text Classification using BERT**, a state-of-the-art
 2. **Model Training**
 3. **Inference Pipeline**
 
+---
+
+## 🛠️ Key Features
+- **Modular Codebase**: Notebooks converted into production-ready modular code.
+- **Experiment Tracking**: Integrated with **Weights & Biases (Wandb)** or **MLflow**, and **DVC**.
+- **Deployment Ready**: Includes Docker and AWS EC2/ECR setup for seamless deployment.
+- **Unique Pipeline Design**: Three pipelines for feature engineering, model training, and inference.
+
+---
 
 ## Features
 - Feature 1
